@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AjayBasker
-- 👀 I’m interested in football
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning how to use GitHub
 -  *  and
 - 💞️ I’m looking to collaborate with people on Github
